@@ -1,0 +1,1 @@
+name;difficulty_level;time;hints
